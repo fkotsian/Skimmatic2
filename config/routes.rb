@@ -1,4 +1,11 @@
 Skimmatic2::Application.routes.draw do
+  resources :tests
+  
+  match root => 'static_pages#home'
+  
+  match '/tryme' => 'tests#show(:id)'
+  
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
