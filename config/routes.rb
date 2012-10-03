@@ -3,7 +3,7 @@ Skimmatic2::Application.routes.draw do
   
   root to: 'static_pages#home'
   
-  match '/tryme', :to 'tests#index'
+  match '/tryme', to: 'tests#index'
   
 
   # The priority is based upon order of creation:
