@@ -1,19 +1,21 @@
 <p id="notice"><%= notice %></p>
 
 <p>
+  <b>Name:</b>
+<%= @test.name %>
+</p>
+
+<p>
   <b>Pre:</b>
-  <%= @test.pre %>
+  <iframe src=<%= @test.pre %> style="width:718px; height:700px;" frameborder="0"></iframe>
 </p>
 
 <p>
   <b>Post:</b>
-  <%= @test.post %>
+  <iframe src=<%= @test.pre %> style="width:718px; height:700px;" frameborder="0"></iframe>
 </p>
 
-<p>
-  <b>Name:</b>
-  <%= @test.name %>
-</p>
+<%= link_to "Next", @test.post, class: "btn btn-large btn-primary" %>			</div>
 
 
 <%= link_to 'Edit', edit_test_path(@test) %> |

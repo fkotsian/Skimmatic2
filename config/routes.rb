@@ -3,7 +3,19 @@ Skimmatic2::Application.routes.draw do
   
   root to: 'static_pages#home'
   
+  match '/help',	to: 'static_pages#help'
+  match '/about', 	to: 'static_pages#about'
+  match '/contact', to: 'static_pages#contact'
+  
   match '/tryme', to: 'tests#index'
+  
+  match '/test1pre', to: 'static_pages#test1pre'
+  match '/test1post', to: 'static_pages#test1post'
+  match '/test2pre', to: 'static_pages#test2pre'
+  match '/test2post', to: 'static_pages#test2post'
+  match '/test1qs', to: 'static_pages#test1qs'
+  match '/test2qs', to: 'static_pages#test2qs'
+  
   
 
   # The priority is based upon order of creation:
