@@ -16,6 +16,10 @@ Skimmatic2::Application.routes.draw do
   match '/test1qs', to: 'static_pages#test1qs'
   match '/test2qs', to: 'static_pages#test2qs'
   
+  match 'acadorig', to: 'public/assets/academicprocrastinationoriginal-3149df5e7a4699ffb41d74272433b840.pdf'
+  match 'acadpost', to: 'public/assets/academicprocrastination1stsentences-0a7bd044fc0863eeaf625278aab1dcab.pdf'
+  match 'gopnikorig', to: 'public/assets/Gopnik Wellman original-e40c3a9d1c0c30f3f9829b0661c2199b.pdf'
+  match 'gopnikpost', to: 'public/assets/Gopnik Wellman numbers - flipped-08d0f6a35b8a963893c611a91952fd67.pdf'
   
 
   # The priority is based upon order of creation:
