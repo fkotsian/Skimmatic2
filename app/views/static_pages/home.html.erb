@@ -4,16 +4,35 @@
 
 	<div class="container-fluid">
 		<div class="row-fluid">
-				<h2>Try me!</h2>	
+			<div class="span12">
+				<h2>This is what's happening here.</h2>
+				<h2>We are making skimming seamlessly fast by systematically summarizin-g the articles. (We draw most of our power from the American tendency of using a "Topic Sentence").</h2>
+				<h2>We give you a "skimsheet": a generated summary of the article.</h2>
 				<div class="row">
-					<%= link_to "Test 1", test1pre_path, class: "btn btn-large btn-primary" %>
-
-					<%= link_to "Test 2", test2pre_path, class: "btn btn-large btn-primary" %>
+					<div class="span6 offset3" align="left">
+						<ul>
+							<li>abstract (if it's there)</li>
+							<li>1st paragraph</li>
+							<li>1st sentence of every paragraph</li>
+							<li>all figures and tables, as they come</li>
+							<li>last paragraph</li>
+						</ul>
+					</div>
 				</div>
-				<br />
-				<h2>Choose one of the above buttons to start!</h2>
+				<h2>At the end, please give us some feedback!</h2>
+				<h2>(There will be a mostly free form form. If you're too lazy to type and have too much to say, talk to us!)</h2>	
 			</div>
 		</div>
+		<div class="row">
+			<%= link_to "Test 1", test1skim_path, class: "btn btn-large btn-primary" %>
+
+			<%= link_to "Test 2", test2skim_path, class: "btn btn-large btn-primary" %>
+
+			<%= link_to "Test 3", test3skim_path, class: "btn btn-large btn-primary" %>
+
+		</div>
+			<br />
+		<h2>Choose one of the above buttons to start!</h2>
 	</div>
 </div>
 
