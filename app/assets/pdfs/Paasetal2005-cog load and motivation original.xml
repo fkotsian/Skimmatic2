@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?adobe-xap-filters esc="CRLF"?>
+<x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+<rdf:Description rdf:about='uuid:61e21273-40d0-43bd-8fae-01a3977ba9e9' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='Acrobat Distiller 4.05 for Windows'></rdf:Description>
+<rdf:Description rdf:about='uuid:61e21273-40d0-43bd-8fae-01a3977ba9e9' xmlns:xap='http://ns.adobe.com/xap/1.0/' xap:CreateDate='2005-08-09T13:20:43-04:00' xap:ModifyDate='2005-08-09T14:55:39-04:00' xap:MetadataDate='2005-08-09T14:55:39-04:00'></rdf:Description>
+<rdf:Description rdf:about='uuid:61e21273-40d0-43bd-8fae-01a3977ba9e9' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:cb0e2574-d3d7-4fb4-99cc-bbac8ed48fc7' xapMM:InstanceID='uuid:61554e57-88bb-48a5-8787-e66b1bad74f5'/>
+<rdf:Description rdf:about='uuid:61e21273-40d0-43bd-8fae-01a3977ba9e9' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'/>
+</rdf:RDF>
+</x:xmpmeta>
+
+<?xpacket end='r'?>
+
+<Part>
+<H1>A Motivational Perspective on the Relation Between Mental Effort and Performance: Optimizing Learner Involvement in Instruction </H1>
+
+<P>Fred Paas Juhani E. Tuovinen Jeroen J. G. van Merriënboer </P>
+
+<Sect>
+<H2>A. Aubteen Darabi</H2>
+
+<P>Motivation can be identified as a dimension that determines learning success and causes the high dropout rate among online learners, especially in complex e-learning environments. It is argued that these learning environments represent a new challenge to cognitive load researchers to investigate the motivational effects of instructional conditions and help instructional designers to predict which instructional configurations will maximize learning and transfer. Consistent with the efficiency perspective introduced by Paas and Van Merriënboer (1993), an alternative motivational perspective of the relation between mental effort and performance is presented. We propose a procedure to compute and visualize the differential effects of instructional conditions on learner motivation, and illustrate this procedure on the basis of an existing data set. Theoretical and practical implications of the motivational perspective are discussed. </P>
+
+<P>An increasing number of instructional theories stress the importance of rich learning environments based on real-life tasks as the driving force for learning. Such tasks are expected to help learners integrate knowledge, skills and attitudes, and improve transfer of what is learned to work settings or daily life (Merrill, 2002). However, a severe risk of such learning tasks is that learners may not be sufficiently motivated to deal with their complexity (van Merriënboer, Kirschner, &amp; Kester, 2003). Moreover, learning tasks are often presented in electronic, online learning environments, which also pose high demands on learners’ motivation and persistence (Frankola, 2001). Until now, cognitive load theory (CLT) has focused on the alignment of instruction with cognitive processes, without recognizing the role of motivation in training. The goal of this article is to introduce a new, motivational perspective. In particular, we will show that the constructs of mental effort and performance, which play a central role in CLT in defining the efficiency of instructional conditions, have both cognitive and motivational components. </P>
+
+<P>The structure of this article is as follows. First, CLT and, especially, the constructs of mental effort, performance, and instructional efficiency are briefly reviewed. Second, the role of motivation in learning is discussed and related to mental effort and performance. We argue that the relationship between mental effort and performance can be used not only to test assumptions concerning instructional efficiency, but also to </P>
+
+<P>ETR&amp;D, Vol. 53, No. 3, 2005, pp. 25–34  ISSN 1042–1629 </P>
+
+<P>compare learner motivation under different instructional conditions. Third, a computational method to compare learner involvement in instructional conditions is presented and illustrated on the basis of an existing data set. A major benefit of the presented method is that it enables cognitive load theorists and instructional designers to compare instructional formats not only in terms of their efficiency but also in terms of their effects on learner motivation. In the discussion, theoretical and practical implications of the proposed method are discussed. </P>
+
+<P>CLT </P>
+
+<P>CLT (Paas, Renkl, &amp; Sweller, 2003, 2004; Sweller, 1988, 1999) offers a versatile framework for understanding the instructional implications of the interaction between information structures and cognitive architecture. CLT is concerned with the instructional control of the high cognitive load typically associated with the learning of complex cognitive tasks. The theory suggests that learning happens best under conditions that are aligned with the cognitive architecture. The theory’s focus on the interaction between information structures and cognitive architecture has resulted in the development of many effective and efficient instructional methods, requiring less training time and less mental effort to attain better learning and transfer performance than conventional instructional methods produce (for an overview see Paas, Renkl et al., 2003, 2004; Sweller, van Merriënboer, &amp; Paas, 1998). </P>
+
+<P>CLT incorporates specific claims concerning the role of cognitive load within an instructional context and its relation to learning. Cognitive load is not simply considered as a by-product of the learning process, but as the major factor determining the success of an instructional intervention in attaining transfer of knowledge and skills. The instructional control of cognitive load by creating an optimal balance between the intrinsic load of the task and the ineffective– effective load ratio of the instruction is considered the essence of the theory (Paas, Renkl et al., 2003). Therefore, it is obvious that activities to define the construct of cognitive load and to measure cognitive load have played and con-</P>
+
+<P>ETR&amp;D, Vol. 53, No. 3 </P>
+
+<P>tinue to play an important role in cognitive load research and in the advancement of the theory (for an overview see, Paas, Tuovinen, Tabbers, &amp; van Gerven, 2003). </P>
+
+<P>An important result of these activities was the recognition by Paas and van Merriënboer (1993) that measures of cognitive load can reveal important information about the efficiency of instructional conditions that is not necessarily reflected by traditional performance-based measures. In particular, they claimed that a combined measure of performance and mental effort data can be considered a reliable estimate of the relative efficiency of instructional conditions. According to this efficiency perspective, learner behavior in a particular instructional condition is more efficient if performance is higher than might be expected on the basis of invested mental effort, or if invested mental effort is lower than might be expected on the basis of performance. Consequently, the efficiency of an instructional condition is considered high if high performance can be attained with little mental effort, and considered low if high mental effort is associated with low performance. A number of experiments using Paas and van Merriënboer’s (1993) computational approach for combining performance and mental effort have demonstrated the added value of the efficiency measure (e.g., Kalyuga, Chandler, Tuovinen, &amp; Sweller, 2001; Paas &amp; van Merriënboer, 1994a; van Gerven, Paas, van Merriënboer, Hendriks, &amp; Schmidt, 2003). </P>
+
+<P>THE ROLE OF MOTIVATION </P>
+
+<P>The efficiency perspective has enriched our knowledge of the cognitive effects of instructional conditions. However, we argue that this perspective does not recognize that meaningful learning can only commence if training experience is coupled with the motivation to achieve well. In this respect, Paas and van Merriënboer (1994a) argued that instructional manipulations to optimize the cognitive load have little effect unless learners are motivated and actually invest mental effort in processing the instructions. However, (low) motivation has not really been an issue in cognitive load research, probably because most studies have focused on short laboratory experiments in which learners may be more inclined to invest mental effort (e.g., because they are paid) than in the school situation. Recently, CLT has begun expanding to e-learning environments, with lengthy training programs incorporating authentic learning tasks that are based on real-life tasks as the driving force for complex learning (van Merriënboer &amp; Sweller, in press). In these e-learning environments, motivation can be identified especially as a critical dimension that determines learning success and causes the high dropout rate among online learners (Frankola, 2001). We argue that this shift of focus from nonauthentic laboratory experiments to authentic e-learning environments represents a new challenge. Cognitive load researchers need to determine the motivational effects of instructional conditions, and identify strategies that keep student attention on the learning materials without their being distracted by the world outside, as well as assist instructional designers to recognize the power of authentic learning environments in enhancing the motivation of learners. </P>
+
+<P>Motivating students to achieve in e-learning environments is a topic of practical concern to instructional designers, and of theoretical concern to researchers. Important variables that have been identified as motivators for student effort are perceived importance, usefulness, and the value of engaging in a task (Pintrich &amp; Schrauben, 1992). Student perceptions of their ability to accomplish the task, that is, their self-efficacy (Bandura, 1982), has been found to affect effort and achievement (Salomon, 1983, 1984). Task characteristics such as task difficulty can be instrumental in providing cues as to the efficiency of effort. If the effort expenditure is perceived as a waste of energy or as unnecessary for success, learners will not be motivated to exert sufficient mental effort. Also, learner preconceptions about the effort required by a learning task influence the effort expenditure (Cennamo, 1993). These preconceptions are influenced not only by task characteristics, but also by characteristics of the learner. In particular, the schemas that have been abstracted from past experiences will determine how a learner perceives a learning task in terms of the amount of mental effort needed to deal with it successfully. </P>
+
+<P>Keller’s (1983) ARCS (Attention, Relevance, Confidence, Satisfaction) model made a key contribution to motivational theory and instructional design. The ARCS model allows the motivational components to be incorporated in instructional design. These motivational components are based on Keller’s general theory of motivation in relation to learning, and have extensive research support (see, Keller, 1999). The ARCS model provides a typology that can help instructional designers organize their knowledge about learner motivation and motivational strategies. It can be used to assess the presence or absence of motivational design components, and to implement and test motivational interventions that have been developed according to the model. </P>
+
+<P>A representative example of an instructional strategy that has been shown to have both cognitive and motivational effects on learning is practice variability. By manipulating the variability of learning tasks, learners’ motivation can be fostered, and they can be encouraged to construct cognitive schemas and to transfer the applied knowledge and skills to new problems. With regard to the motivational effects, Keller’s ARCS model (1983) considers variability of practice as one of the strategies for gaining and keeping the learner’s attention. Recently, Holladay and Quinones (2003) have shown that self-effi-cacy generality serves as a motivational mechanism explaining the relation between practice variability and transfer. Regarding the cognitive effects, it has been well documented that variability of practice may result in beneficial effects on schema construction and transfer of training, provided the total task cognitive load is kept within the bounds of the working memory capacity (e.g., Paas &amp; van Merriënboer, 1994a; Quilici &amp; Mayer, 1996; van Merriënboer et al., 2002). Presentation of a highly varied sequence of problems and solutions to those problems helps learners extend or restrict the range of applicability of constructed schemas, but seems to require the mindful engagement of the learners, which increases cognitive load. Generally, the results of these studies indicated that high variability of practice can be used as an instructional strategy to encourage learners to invest mental effort in learning. </P>
+
+<P>According to Fisher and Ford (1998), the allocation of effort toward learning activities is driven by individual motivational processes, such as goals, incentives, individual personality differences, and metacognitive knowledge. Goal orientation, defined as the broad goals held by individuals as they face a learning task, has been identified as a motivational variable that affects how individuals approach learning tasks (Dweck &amp; Leggett, 1988). Two goal orientation approaches can be identified. First, learning– goal-oriented learners are dedicated to increasing their competence on a task. These learners will direct attention to the task, and learn for the sake of learning, and thus will devote greater effort to learning (Button, Mathieu, &amp; Zajac, 1996). Performance– goal-oriented learners will direct attention toward performing well on learning indicators, and thus devote less effort to the task, because they also devote resources to ego management (Ford, Smith, Weissbein, Gully, &amp; Salas, 1998). Steele-Johnson, Beauregard, Hoover, and Schmidt (2000) have shown that individuals with a learning orientation perceive greater opportunities to gain mastery and, in turn, express greater satisfaction on difficult tasks than do individuals with a performance orientation, who perceive greater opportunities to demonstrate ability and, in turn, express greater satisfaction on simple tasks. </P>
+
+<P>In the search for the conditions that need to be met to optimize learner involvement in learning environments, it is important to have an instrument to calculate and visualize motivation. According to Kanfer and Ackerman (1989), individual motivational processes drive the allocation of cognitive resources toward learning activities. Paas (1992; Paas &amp; van Merriënboer, 1994a) defined mental effort as the amount of cognitive resources allocated to learning. This definition suggests that the amount of mental effort invested in a certain learning task can be considered a reliable estimate of the learner’s motivation or involvement in that task. Indeed, the amount of invested mental effort is considered a more accurate measure of motivational behavior than self-report methods, which require learners to indicate their perceived motivation level </P>
+
+<P>ETR&amp;D, Vol. 53, No. 3 </P>
+
+<P>(Song &amp; Keller, 2001). However, because only limited cognitive resources are available to be distributed among on-task and off-task behaviors, this is a contaminated measure of learner motivation. A learner may appear to be working on a task, or thinking about a task, but attention may be focused elsewhere. Therefore, we believe that an instrument to capture learner motivation should take into account not only the invested mental effort but also the associated performance data. The next section discusses a procedure to achieve this goal. </P>
+
+<P>THE CALCULATION OF TASK INVOLVEMENT </P>
+
+<P>Consistent with the efficiency perspective introduced by Paas and van Merriënboer (1993; see also Tuovinen &amp; Paas, 2004) we present an alternative motivational perspective on the relation between mental effort and task performance, which can be used to calculate and visualize the relative involvement in instructional conditions. This perspective regarding the relation between mental effort and performance is based on the assumption that motivation, mental effort, and performance are positively related. So, when learner involvement is higher in a particular instructional condition, more mental effort is likely to be invested, and this is likely to result in higher performance. Consistent with this line of reasoning, the combined mental-effort and performance scores can provide information on the relative involvement of students in instructional conditions, and can be used to compare the effects of instructional conditions on their motivation. Together with the information on instructional efficiency (Paas &amp; van Merriënboer, 1993) the information on instructional motivation is expected to help predict which instructional configurations will maximize performance efficiency in the training of complex cognitive tasks. </P>
+
+<P>A series of steps needs to be taken to compute and visualize learner motivation in instructional conditions. First, to map the units of measurement of mental effort onto those of performance, the student scores for effort and performance need to be standardized across instructional </P>
+
+<P>Figure 1 Mental Effort – Performance coordinate system to visualize motivational effects of instructional conditions. </P>
+<Figure>
+
+<ImageData src="images/Paasetal2005-cog load and motivation original_img_0.jpg"/>
+</Figure>
+
+<P>conditions by subtracting the total mean from each score and dividing the result by the total standard deviation. This gives a z-score for effort, R, and a z-score for performance, P, which can be represented on the Cartesian axes of performance (vertical) and effort (horizontal). Figure 1 shows this Mental Effort– Performance coordinate system. Particular points in this coordinate system may refer to mental effort z-scores and related performance z-scores of experimental conditions or groups of participants. Finally, an instructional involvement score, I, can be computed for each student using the formula: </P>
+
+<P>R + P</P>
+
+<P>I = </P>
+
+<P>√</P>
+
+<P>⎯2 This formula1 can be derived from comput</P>
+
+<P>ing the perpendicular distance of a point defined by the means of effort and performance, for each treatment group, to a zero involvement line, where R + P = 0. Thus this graph provides a visual display of the motivation effort and per</P>
+
+<P>1 The general formula for calculation of the distance for a point with coordinates (x, y) to the line ax + by + c = 0 in an X– Y coordinate system is: </P>
+
+<P>⎪ ax + by + c ⎪</P>
+
+<P>Distance = </P>
+
+<P>⎯⎯⎯⎯⎯⎯ </P>
+
+<P>√(a2 + b2) </P>
+
+<P>Because the line in this case is R + P = 0, and we want to know the distance from that line to the point with coordinates (R, P) the formula for the distance is: </P>
+
+<P>R + P</P>
+
+<P>I = </P>
+
+<P>√</P>
+
+<P>⎯2 </P>
+
+<P>formance relationships. The motivational perspective assumes that the complex relation between mental effort and performance can be used to compare the motivational effects of instructional conditions. Shifts to the upper right of the coordinate system that is presented in Figure 1 indicate an increase in involvement, and shifts to the lower left, indicate a decrease in involvement. </P>
+
+<P>To show how the motivational perspective can be applied to real data, we use the data of Tuovinen and Sweller (1999). In their experiment, worked-examples practice was contrasted with free-exploration practice for students learning to develop sophisticated computational fields for databases, that is, learning demanding content. When the performance and mental effort of these two treatments were compared for students with no or some prior content knowledge, it was found that there was no significant difference in the efficiency of learning between the two formats of practice for students with relevant prior knowledge. However, the students with no prior content knowledge experienced much less efficient learning conditions when involved in the exploration practice than in the worked examples practice. This finding is consistent with the “ expertise reversal effect” (Kalyuga, Ayres, Chandler, &amp; Sweller, 2003), where learning strategies found to facilitate learning for novices, such as the superiority of worked examples over exploration learning, become less effective or even dysfunctional as a function of increasing expertise. </P>
+
+<P>It is now possible to compare the involvement of the worked examples and exploration groups by computing the involvement measures, using the above formula. The standardized values for the performance, mental effort, and involvement results of the two treatments with the two prior knowledge levels are shown in Figure 2, using the conventional presentation introduced by Paas and van Merriënboer (1993). The two exploration practice groups show the highest task involvement, which is consistent with the common belief that discovery and exploratory environments are motivating for learners. Interestingly, the good-prior-knowl-edge exploration group shows the highest involvement score (I = .29 vs. I = .14 for the no-</P>
+
+<P>ETR&amp;D, Vol. 53, No. 3 </P>
+
+<P>prior-knowledge group). Although not statistically significant, these measures support Salomon’s conclusion (1983) that prior knowledge is related to condition involvement or motivation. In this case, the trend appears to be that the exploration practice provided greater involvement than the worked examples practice, and that this effect is strongest for the higher-prior-knowledge students. The subsequent work leading to the expertise reversal effect appears to bear this out; with increasing expertise and for demanding content, exploration is more efficient than worked examples (Kalyuga, Chandler, &amp; Sweller, 2001) and, likewise, problem solving is also more efficient than worked examples (Kalyuga, Chandler, Tuovinen et al., 2001). Currently, proponents of CLT explain this effect in terms of cognitive efficiency. But as an alternative explanation, more advanced learners may not be motivated to invest mental effort in learning tasks that were designed for novices, or to use approaches that are excessively structured, such as worked-examples practice. </P>
+
+<P>DISCUSSION </P>
+
+<P>Cognitive load theorists have focused on the alignment of instruction with cognitive architecture, without recognizing the need for training experiences to be coupled with the motivation to achieve well. This cognitive focus has been realized in a computational method to combine measures of invested mental effort and performance to compare the efficiency of instructional conditions (Paas &amp; van Merriënboer, 1993; Tuovinen &amp; Paas, 2004). However, the constructs of mental effort and performance have motivational as well as cognitive components. Our goal was to introduce a motivational perspective on the relation between mental effort and performance that can be used to compare learner motivation in instructional conditions. Consistent with the efficiency approach, a computational method to compare learner involvement in instructional conditions was presented. A major benefit of this method is that it enables cognitive load theorists and instructional designers to compare instructional formats not </P>
+
+<P>Figure 2 </P>
+
+<P>Motivational effects of instructional conditions in Tuovinen and Sweller (1999). </P>
+<Figure>
+
+<ImageData src="images/Paasetal2005-cog load and motivation original_img_1.jpg"/>
+</Figure>
+
+<P>only in terms of their efficiency, but also in terms of their effects on learner motivation. Furthermore, this method may offer an alternative or supplementary approach to the inventories that are commonly used to collect motivational data (e.g., McAuly, Wraith, &amp; Duncan, 1991) and considered independently from performance-based data. </P>
+
+<P>The motivational perspective may provide an interesting alternative explanation to the prevailing cognitive account of the effects found by cognitive load researchers, such as the recently found “ expertise reversal effect” (Kalyuga et al., 2003). Therefore, it would be interesting to apply the motivational perspective to the data sets of other cognitive load studies, and try to identify the task characteristics that motivated students to invest more mental effort and achieve higher performance, or, as it may happen, to invest less mental effort and achieve lower performance. </P>
+
+<P>A multidimensional approach combining the mental efficiency and motivational perspectives shows great promise for the advancement of adaptive training research. This research has predominantly used mental efficiency algorithms to select training tasks dynamically (Camp, Paas, Rikers, &amp; van Merriënboer, 2001; Kalyuga &amp; Sweller, 2005; Salden, Paas, Broers, &amp; van Merriënboer, 2004). In general, this cognitively oriented research has shown that dynamic task selection is superior to nondynamic task selection. However, in most cases the results of these studies did not reveal differences between dynamic task selection methods. We believe that a motivational perspective of these results could shed light on the lack of differential effects, and that the incorporation of a motivational perspective in dynamic task selection algorithms could foster the adaptivity of e-learning environments. The results of a recent study by Song and Keller (2001) seem promising in this respect. Using the ARCS model they showed that computer-assisted instruction can be designed to be motivationally adaptive to respond to changes in learner motivation that may occur over time. </P>
+
+<P>We believe that the approach to calculate and represent the relative involvement of students in instructional conditions can provide a valuable additive to research on the training and performance of complex cognitive tasks. However, there remains some conceptual and methodological lack of clarity regarding the approach. As is the case in the calculation of instructional efficiency, the assumed linear relationship between mental-effort and performance scores is an oversimplification, as performance must reach an asymptote as the amount of invested mental effort increases. Furthermore, the description of involvement suggests that it is equivalent to the amount of mental effort that a subject invests in a task. But, the computation used of summing the amount of mental effort and task performance includes an additional factor, namely that involvement depends on performance, given the same amount of mental effort. In addition, the computation suggests that people can make trade-offs between mental effort and task performance to achieve the same level of involvement. </P>
+
+<P>A final point of concern regarding the proposed motivational perspective relates to the notion that there are other factors than motivation determining the amount of mental effort invested. One of these factors, which is coupled with assessment of mental effort, is task difficulty as experienced by the learner. In fact, to measure the amount of mental effort, some cognitive load studies have used verbal labels relat-</P>
+
+<P>ETR&amp;D, Vol. 53, No. 3 </P>
+
+<P>ing to task difficulty, instead of mental effort. However, according to the model presented by Paas and van Merriënboer (1994b), (a) task difficulty represents just one of the three dimensions determining mental effort, next to (b) learner characteristics, and (c) task-learner interactions. As long as a task is not too easy and not too difficult, ratings of task difficulty may correlate highly with ratings of invested mental effort. Most important, it is clear that mental effort is a voluntary mobilization process of resources, which depends on the task demands in relation to the amount of resources the learner is willing or able to allocate. If learners perceive a learning task as too easy or too difficult, they may not be willing to invest mental effort in it, and cease to learn. So, to take advantage of the motivational approach to the relation between mental effort and performance, it is important to use rating scales with verbal labels related to invested mental effort. Despite these shortcomings, we believe that the presented motivational perspective can broaden the horizon of cognitive load researchers, and contribute to the optimization of learner involvement in instructional conditions. </P>
+
+<P>Fred Paas [fred.paas@ou.nl] is with the Educational Technology Expertise Center of the Open University of the Netherlands. </P>
+
+<P>Juhani E. Tuovinen is with the School of Education at Charles Darwin University, Australia. </P>
+
+<P>Jeroen J. G. van Merriënboer is with the Educational Technology Expertise Center at the Open University of the Netherlands. </P>
+
+<P>A. Aubteen Darabi is with the Learning Systems Institute at Florida State University. </P>
+
+<P>Correspondence concerning this article should be addressed to Fred Paas, Open University of the Netherlands, Educational Technology Expertise Center, P.O. Box 2960, 6401 DL Heerlen, The Netherlands. </P>
+
+<P>REFERENCES </P>
+
+<P>Bandura, A. (1982). Self-efficacy mechanisms in human agency. American Psychologist, 37, 122– 147. </P>
+
+<P>Button, S. B., Mathieu, J. E., &amp; Zajac, D. M. (1996). Goal orientation in organizational research: A conceptual and empirical foundation. Organizational Behavior &amp; Human Decision Processes, 67, 26– 48. </P>
+
+<P>Camp, G., Paas, F., Rikers, R., &amp; van Merriënboer J. J. </P>
+
+<P>G. (2001). Dynamic problem selection in air traffic control training: A comparison between performance, mental effort and mental efficiency. Computers in Human Behavior, 17, 575– 595. </P>
+
+<P>Cennamo, K. S. (1993). Learning from video: Factors influencing learners’ preconceptions and invested mental effort. Educational Technology Research and Development, 41(3), 33– 45. </P>
+
+<P>Dweck, C. S., &amp; Leggett, E. L. (1988). A social-cognitive approach to motivation and personality. Psychological Review, 95, 256– 273. </P>
+
+<P>Fisher, F. L., &amp; Ford, J. K. (1998). Differential effects of learner effort and goal orientation on two learning outcomes. Personnel Psychology, 51, 397– 420. </P>
+
+<P>Ford, J. K., Smith, E. M., Weissbein, D. A., Gully, S. M., &amp; Salas, E. (1998). Relationships of goal orientation, metacognitive activity, and practice strategies with learning outcomes and transfer. Journal of Applied Psychology, 83, 218– 233. </P>
+
+<P>Frankola, K. (2001). Why online learners drop out. Workforce, 80, 53– 60. </P>
+
+<P>Holladay, C. L., &amp; Quinones, M. A. (2003). Practice variability and transfer of training: The role of self-efficacy generality. Journal of Applied Psychology, 88, 1094– 1103. </P>
+
+<P>Kalyuga, S., Ayres, P., Chandler, P., &amp; Sweller, J. (2003). The expertise reversal effect. Educational Psychologist, 38, 23– 31. </P>
+
+<P>Kalyuga, S., Chandler, P., &amp; Sweller, J. (2001). Learner experience and efficiency of instructional guidance. Educational Psychology, 21, 5– 23. </P>
+
+<P>Kalyuga, S., Chandler, P., Tuovinen, J., &amp; Sweller, J. (2001). When problem solving is superior to studying worked examples. Journal of Educational Psychology, 93, 579– 588. </P>
+
+<P>Kalyuga, S., &amp; Sweller, J. (2005). Rapid dynamic assessment of expertise to improve the efficiency of adaptive e-learning. [This special issue]. Educational Technology Research and Development, 53(3), 83– 93. </P>
+
+<P>Kanfer, R., &amp; Ackerman, P. L. (1989). Motivation and cognitive abilities: An integrative/aptitude-treat-ment interaction approach to skill acquisition. Journal of Applied Psychology, 74, 657– 690. </P>
+
+<P>Keller, J. M. (1983).  Motivational design of instruction. In C.M. Reigeluth (Ed.), Instructional-design theories and models: An overview of their current status (pp. 383– 434). Hillsdale, NJ: Erlbaum. </P>
+
+<P>Keller, J. M. (1999). Handbook of human performance technology (2nd ed.). San Francisco, CA: Jossey-Bass. </P>
+
+<P>McAuley, E., Wraith, S., &amp; Duncan, T. E. (1991). Self-efficacy, perception of success, and intrinsic motivation for exercise. Journal of Applied Social Psychology, 21, 139– 155. </P>
+
+<P>Merrill, M. D. (2002). First principles of instructional design. Educational Technology Research and Development, 50(3), 43– 59. </P>
+
+<P>Paas, F. (1992). Training strategies for attaining transfer of problem-solving skill in statistics: A cognitive-load approach. Journal of Educational Psychology, 84, </P>
+
+<P>429– 434. </P>
+
+<P>Paas, F., Renkl, A., &amp; Sweller, J. (2003). Cognitive load theory and instructional design: Recent developments. Educational Psychologist, 38, 1– 4. </P>
+
+<P>Paas, F., Renkl, A., &amp; Sweller, J. (2004). Cognitive load theory: Instructional implications of the interaction between information structures and cognitive architecture. Instructional Science, 32, 1– 8. </P>
+
+<P>Paas, F., Tuovinen, J., Tabbers, H., &amp; van Gerven, P. W. </P>
+
+<P>M. (2003). Cognitive load measurement as a means to advance cognitive load theory. Educational Psychologist, 38, 63– 71. </P>
+
+<P>Paas, F., &amp; van Merriënboer, J. J. G. (1993). The efficiency of instructional conditions: An approach to combine mental effort and performance measures. Human Factors, 35, 737– 743. </P>
+
+<P>Paas, F., &amp; van Merriënboer, J. J. G. (1994a). Variability of worked examples and transfer of geometrical problem solving skills: A cognitive-load approach. Journal of Educational Psychology, 86, 122– 133. </P>
+
+<P>Paas, F., &amp; van Merriënboer, J. J. G. (1994b). Instructional control of cognitive load in the training of complex cognitive tasks. Educational Psychology Review, 6, 51– 71. </P>
+
+<P>Pintrich, P. R., &amp; Schrauben, B. (1992). Students’ motivational beliefs and their cognitive engagement in classroom academic tasks. In D. H. Schunk &amp; J. L. Meece (Eds.), Student perceptions in the classroom (pp. 149– 183). Hillsdale, NJ: Erlbaum. </P>
+
+<P>Quilici, J. L., &amp; Mayer, R. E. (1996). Role of examples in how students learn to categorize statistics word problems. Journal of Educational Psychology, 88, 144– 161. </P>
+
+<P>Salden, R. J. C. M., Paas, F., Broers, N., &amp; van Merriënboer, J. J. G. (2004). Mental effort and performance as determinants for the dynamic selection of learning tasks in air-traffic control training. Instructional Science, 32, 153– 172. </P>
+
+<P>Salomon, G. (1983). The differential investment of mental effort in learning from different sources. Educational Psychologist, 18, 42– 50. </P>
+
+<P>Salomon, G. (1984). Television is “ easy” and print is “ tough” : The differential investment of mental effort as a function of perceptions and attributions. Journal of Educational Psychology, 76, 647– 658. </P>
+
+<P>Song, S. H., &amp; Keller, J. M. (2001). Effectiveness of motivationally adaptive computer-assisted instruction on the dynamic aspects of motivation. Educational Technology Research and Development, 49(2), 5– 22. </P>
+
+<P>Steele-Johnson, D., Beauregard, R. S., Hoover, P. B., &amp; Schmidt, A. M. (2000). Goal orientation and task demand effects on motivation, affect, and performance. Journal of Applied Psychology, 85, 724– 738. </P>
+
+<P>Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12, 257– 285. </P>
+
+<P>Sweller, J. (1999). Instructional design in technical areas. Melbourne, Australia: ACER Press. Sweller, J., van Merriënboer, J. J. G., &amp; Paas, F. (1998). </P>
+
+<P>Cognitive architecture and instructional design. Educational Psychology Review, 10, 251– 296. </P>
+
+<P>Tuovinen, J., &amp; Paas, F. (2004). Exploring multidimensional approaches to the efficiency of instructional conditions. Instructional Science, 32, 133– 152. </P>
+
+<P>Tuovinen, J. E., &amp; Sweller, J. (1999). A comparison of cognitive load associated with discovery learning and worked examples. Journal of Educational Psychology, 91, 334– 341. </P>
+
+<P>van Gerven, P. W. M., Paas, F., van Merriënboer, J. J. G., Hendriks, M., &amp; Schmidt, H. G. (2003). The efficiency of multimedia training into old age. British Journal of Educational Psychology, 73, 489– 505. </P>
+
+<P>ETR&amp;D, Vol. 53, No. 3 </P>
+
+<P>van Merriënboer, J. J. G., Kirschner, P. A., &amp; Kester, L. (2003). Taking the load off a learner’s mind: Instructional design for complex learning. Educational Psychologist, 38, 5– 13. </P>
+
+<P>van Merriënboer, J. J. G., Schuurman, J. G., de Croock, </P>
+
+<P>M. B. M., &amp; Paas, F. (2002). Redirecting learners’ attention during training: Effects on cognitive load, transfer test performance and training efficiency. Learning and Instruction, 12, 11– 37. </P>
+
+<P>van Merriënboer, J. J. G., &amp; Sweller, J. (2005). Cognitive load theory and complex learning: Recent developments and future directions. Educational Psychology Review, 17(2), 147– 177. </P>
+<Figure>
+
+<ImageData src="images/Paasetal2005-cog load and motivation original_img_2.jpg"/>
+</Figure>
+</Sect>
+</Part>
+</TaggedPDF-doc>

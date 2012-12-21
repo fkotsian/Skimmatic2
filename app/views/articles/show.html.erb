@@ -1,0 +1,18 @@
+<p id="notice"><%= notice %></p>
+
+<h2>Skimmatic version 2.0 - automatic processing (if buggy):</h2>
+
+<h1><%= Article.title %></h1>
+
+<br />
+<h2><%= Article.authors %></h2>
+<br />
+<p><%= Article.abstract %></p>
+<br />
+<%= Article.sents.each do |sent| %>
+<p><%= sent %></p>
+<% end %>
+
+
+<%= link_to 'Edit', edit_article_path(@article) %> |
+<%= link_to 'Back', articles_path %>
