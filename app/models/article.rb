@@ -5,7 +5,7 @@ class Article < ActiveRecord::Base
 #  has_attached_file :pdf, :styles => { medium: "800x680", thumb: "100x100" }
 
   require 'nokogiri'
-  f = File.open("C:/Sites/Skimmatic2/app/assets/pdfs/Paying Atten Distracting.html")	# AMAZING SHIT: Can make this a variable: the URL of their outputted Converted PDFtoHTML file hosted on the internets: a textfield where they can input it
+  f = File.open("app/assets/pdfs/Paying Atten Distracting.html")	# AMAZING SHIT: Can make this a variable: the URL of their outputted Converted PDFtoHTML file hosted on the internets: a textfield where they can input it
   doc = Nokogiri::HTML(f)
   f.close
   
